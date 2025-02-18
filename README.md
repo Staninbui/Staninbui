@@ -7,15 +7,13 @@
 ## 🚀 My GitHub Stats
 ![Staninbui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staninbui&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Staninbui&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Staninbui&layout=compact&theme=radical)
 
 ## ⭐ Check out my favorite repositories!
 [My Awesome Stars](https://github.com/stars/Staninbui)
 
 ## 🐦 Just for fun...
-<img src="https://media.giphy.com/media/3o7TKsQ7RMZXs0XXDi/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/3o7TKsQ7RMZXs0XXDi/giphy.gif" width="100">
 
 
 <!--
