@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staninbui&layout=compact&theme=radical" />
     </td>
     <td>
-      <img src="https://storage.cloud.google.com/my_own_resources/images/hahh_cat.GIF" width="300">
+      <img src="https://storage.googleapis.com/my_own_resources/images/hahh_cat.GIF" width="300">
     </td>
   </tr>
 </table>
